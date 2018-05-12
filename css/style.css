@@ -38,7 +38,7 @@ h3 {
   right: 0;
   bottom: 0;
   background: #474747;
-  background-image: url("../images/background.jpg");
+  background-image: url(../images/background.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
