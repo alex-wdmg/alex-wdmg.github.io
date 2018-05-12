@@ -91,7 +91,7 @@ h3 {
 }
 .social-network > li {
   display: inline;
-  margin: 0 5px;
+  margin: 0 5px 5px 5px;
 }
 .social-network > li > a {
   display: inline-block;
