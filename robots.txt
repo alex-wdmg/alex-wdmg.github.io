@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+User-agent: Yandex
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Host: vyshnyvetskyy.com
+Sitemap: https://vyshnyvetskyy.com/sitemap.xml
