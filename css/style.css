@@ -121,6 +121,9 @@ h3 {
 .social-network > li > a.link-facebook:hover {
   background-color: #3B5998;
 }
+.social-network > li > a.link-telegram:hover {
+  background-color: #62BCF9;
+}
 .social-network > li > a.link-twitter:hover {
   background-color: #33ccff;
 }
